@@ -1,5 +1,3 @@
-May 31st 2023
-
 # Royalty Free Music Discovery Application
 
 This Project is an application that uses any commercial song name from Spotify to automatically find the most similar sounding royalty-free alternative through Spotify and Jamendo API endpoints through an algorithm to translate JSON responses into recognised inputs.
